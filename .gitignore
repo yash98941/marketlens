@@ -1,0 +1,8 @@
+# BEIR corpora are downloaded by beir.py, so they stay out. results/ is kept
+# because the README quotes those numbers.
+data/
+__pycache__/
+*.pyc
+.env
+.venv/
+ablation_*.txt
